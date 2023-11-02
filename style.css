@@ -13,20 +13,25 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
-    color: #eb2626;
+  background-color: #151230;
+  color: #22ebf2;
 }
 
 
 .food-pic {
-    width: 200px;
+  width: 200px;
+  border:10px solid #2ff511;
+  margin:10px;
+  padding:10px;
 }
 
+
 .title {
-    text-align: center;
-    color: #eb2626;
-    border: #eb2626 solid 5px;
-    border-radius: 30px;
-    font-family: 'Italianno', cursive;
-    font-size: 90px;
+  text-align: center;
+  color: #eb2626;
+  border: #f511bc solid 4px;
+  border-radius: 30px;
+  font-family: 'Italianno', cursive;
+  font-size: 90px;
+
 }
